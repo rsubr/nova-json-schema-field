@@ -1,6 +1,6 @@
 # JSON schema field for Laravel Nova
 
-[![Packagist](https://img.shields.io/packagist/dt/nsavinov/nova-json-schema-field.svg)](https://packagist.org/packages/nsavinov/nova-json-schema-field)
+[![Packagist](https://img.shields.io/packagist/dt/rsubr/nova-json-schema-field.svg)](https://packagist.org/packages/rsubr/nova-json-schema-field)
 
 Laravel Nova field for displaying [JSON schema](https://json-schema.org/) data. Inspired by [nsavinov/nova-json-schema-field](https://packagist.org/packages/nsavinov/nova-json-schema-field).
 
